@@ -17,7 +17,7 @@
 
  */
 
-const binary = (arr, target) => {
+const binarySearch = (arr, target) => {
   arr.sort((a, b) => a - b);
   console.log(arr);
   let left = 0;
@@ -37,6 +37,6 @@ const binary = (arr, target) => {
   return -1;
 };
 
-console.log(binary([1, 3, 2, 4, 3, 5, 1], 5));
-console.log(binary([1, 392, 8, 9, 1], 5));
-console.log(binary([9, 2, 8, 9, 1, 6], 6));
+console.log(binarySearch([1, 3, 2, 4, 3, 5, 1], 5));
+console.log(binarySearch([1, 392, 8, 9, 1], 5));
+console.log(binarySearch([9, 2, 8, 9, 1, 6], 6));
