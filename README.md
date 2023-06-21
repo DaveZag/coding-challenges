@@ -16,3 +16,26 @@ Following are the key time and space complexities:
 - Factorial time: O(n!)
 
 ![time complexity chart](https://misc-flexiple.s3.amazonaws.com/bon_cheat_sheet.jpg)
+
+I will cover around 20 coding problem patterns that can help anyone learn these beautiful algorithmic techniques and make a real difference in the coding interviews.🙌🏻
+
+- Sliding Window
+- Islands (Matrix Traversal)
+- Two Pointers
+- Fast & Slow Pointers
+- Merge Intervals
+- Cyclic Sort
+- In-place Reversal of a LinkedList
+- Tree Breadth-First Search
+- Tree Depth First Search
+- Two Heaps
+- Subsets
+- Modified Binary Search
+- Bitwise XOR
+- Top ‘K’ Elements
+- K-way Merge
+- Topological Sort
+- 0/1 Knapsack
+- Fibonacci Numbers
+- Palindromic Subsequence
+- Longest Common subsequence.
